@@ -1,0 +1,5 @@
+Planet: 1
+Radius: 5732484.076433121
+Diameter: 11464968.152866242
+Planet Circumference: 36000000.0
+ 
