@@ -3,3 +3,61 @@ Radius: 5732484.076433121
 Diameter: 11464968.152866242
 Planet Circumference: 36000000.0
  
+Planet: 1
+Radius: 5732484.076433121
+Diameter: 11464968.152866242
+Planet Circumference: 36000000.0
+ 
+Planet: de poepplaneet
+Radius: 2866242.0382165606
+Diameter: 5732484.076433121
+Planet Circumference: 18000000.0
+ 
+Planet: test
+Radius: 5732484.076433121
+Diameter: 11464968.152866242
+Planet Circumference: 36000000.0
+Mass: 1325642631.3611228
+
+Planet: Test
+Radius: 5732484.076433121 km 
+Diameter: 11464968.152866242 km
+Planet Circumference: 36000000.0 km
+Mass: 1325.6426313611228ton(s)
+
+Planet: Test
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1.3256426313611228e-12ton(s)
+ 
+Planet: Test
+Radius: 28.662420382165607 km 
+Diameter: 57.32484076433121 km
+Planet Circumference: 180.0 km
+Mass: 1.6570532892014035e-13ton(s)
+ 
+Planet: pl
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1.3256426313611228e-12ton(s)
+ 
+Planet: kjk
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1.3256426313611227e-09ton(s)
+ 
+Planet: dfjd
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325642631.3611228ton(s)
+ 
+Planet: f
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325642.631361123ton(s)
+ 
