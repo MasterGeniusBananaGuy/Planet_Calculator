@@ -61,3 +61,28 @@ Diameter: 114.64968152866243 km
 Planet Circumference: 360.0 km
 Mass: 1325642.631361123ton(s)
  
+Planet: testets
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325640960ton(s)
+ 
+Planet: vfdmbvgbj
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325640.96ton(s)
+ 
+Planet: rgvfjbhf
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325640.96ton(s)
+ 
+Planet: fcbhdcbd
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325640.96ton(s)
+Volume: 789072.9948578113 km3
+Surface Area: 720.3651944537106 km2

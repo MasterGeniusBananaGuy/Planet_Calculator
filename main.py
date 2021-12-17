@@ -7,18 +7,20 @@ def main():
 	os.system('clear')
 	shle1 = input("Shadow lenght 1: ")
 	shle2 = input("Shadow lenght 2: ")
-	maofchoice = input("Kilo's per cubic meter: ")
+	density = input("Kilo's per cubic meter: ")
 
 	r = radia(shle1, shle2)[0]
 	d = radia(shle1, shle2)[1]
 	plcic = radia(shle1, shle2)[2]
-	mass = mdvs(maofchoice, r)
+	vol = mdvs(density, r)[0]
+	mass = mdvs(density, r)[1]
+	surf = mdvs(density, r)[2]
 
-	print(r, d, plcic, mass)
+	print(r, d, plcic, vol, mass, surf)
 	time.sleep(5)
-	stop(r, d, plcic, mass)
+	stop(r, d, plcic, vol, mass, surf)
 	
-def stop(r, d, plcic, mass):
+def stop(r, d, plcic, vol, mass, surf):
 	os.system('clear')
 	save = input("Would you like to save this planet? (yes/no) ")
 	if save == 'yes':
@@ -28,7 +30,9 @@ def stop(r, d, plcic, mass):
 			f.write("Radius: " + str(r) + " km " + "\n")
 			f.write("Diameter: " + str(d) + " km" + "\n")
 			f.write("Planet Circumference: " + str(plcic) + " km" + "\n")
-			f.write("Mass: " + str(mass) + "ton(s)" + "\n \n")
+			f.write("Mass: " + str(mass) + "ton(s)" + "\n")
+			f.write("Volume: " + str(vol) + " km3" + "\n")
+			f.write("Surface Area: " + str(surf) + " km2" + "\n")
 		os.system('clear')
 		quit()
 	else:
@@ -46,7 +50,9 @@ def start():
 				r = lines[1] + " km" + "\n"
 				d = lines[2] + " km" + "\n"
 				plcic = lines[3] + " km" + "\n"
-				mass = lines[4] + " ton(s)" "\n"
+				mass = lines[4] + " ton(s)" + "\n"
+				vol = lines[5] + " km3" + "\n"
+				surf = lines[6] + " km2" + "\n"
 			print(planet + r + d + plcic + mass)
 			time.sleep(5)
 			os.system('clear')
