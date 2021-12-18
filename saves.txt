@@ -86,3 +86,10 @@ Planet Circumference: 360.0 km
 Mass: 1325640.96ton(s)
 Volume: 789072.9948578113 km3
 Surface Area: 720.3651944537106 km2
+Planet: /bin/python3.8 /home/pi/Documents/Python/Planet_Calculater/main.py
+Radius: 57.32484076433121 km 
+Diameter: 114.64968152866243 km
+Planet Circumference: 360.0 km
+Mass: 1325640.96ton(s)
+Volume: 789072.9948578113 km3
+Surface Area: 720.3651944537106 km2
